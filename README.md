@@ -1,5 +1,7 @@
 "# Snake_game" 
 
+Hướng dẫn ngôn ngữ Python: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=42512s
+
 Xây dựng trò chơi kinh điểm bằng ngôn ngữ Python.
 ![snake1.png](picture_in_game%2Fsnake1.png)
 ![snake2.png](picture_in_game%2Fsnake2.png)
