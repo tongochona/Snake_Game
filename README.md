@@ -1,2 +1,3 @@
 "# Snake_game" 
-thuer
+
+Xây dựng trò chơi kinh điểm bằng ngôn ngữ Python.
