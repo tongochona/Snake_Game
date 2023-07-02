@@ -1,7 +1,6 @@
-Xây dựng trò chơi kinh điểm bằng ngôn ngữ Python.
 "# Snake_game" 
 
-
+Xây dựng trò chơi kinh điểm bằng ngôn ngữ Python.
 ![snake1.png](picture_in_game%2Fsnake1.png)
 ![snake2.png](picture_in_game%2Fsnake2.png)
 
